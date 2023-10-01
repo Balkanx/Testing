@@ -542,6 +542,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/BbVHjH56'))()
 end)
 
 
+
 local Tab1Section = Tab1:NewSection("Doors")
 
 Tab1Section:NewButton("Doors👁 1","No description",function()
@@ -742,7 +743,11 @@ Tab1Section:NewButton("Ragdoll engine 4","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
 end)
 
-Tab2Section:NewButton("--- Added more scripts")
+Tab2Section:NewButton("--- added more games","No description",function()
+end)
+
+Tab2Section:NewButton("--- Added more scripts","No description",function()
+end)
 
 Tab3Section:NewButton("Keyboard GUI","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
