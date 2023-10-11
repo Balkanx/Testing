@@ -705,10 +705,20 @@ Tab1Section:NewButton("Ragdoll Engine 5","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))() 
 end)
 
-Tab2Section:NewButton("--- added more games","No description",function()
+local Tab1Section = Tab1:NewSection("Tps ultimate soccer")
+
+Tab1Section:NewButton("Tps ultimate 1 key [ultimate69#]","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yBloodz/TPS-script/main/Tps%20ult%20reach"))()
 end)
 
-Tab2Section:NewButton("--- Added more scripts","No description",function()
+Tab1Section:NewButton("Tps ultimate 2 [just use reach]","No description",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Street%20Soccer'))()
+end)
+
+Tab2Section:NewButton("--- added tps ultimate soccer","No description",function()
+end)
+
+Tab2Section:NewButton("--- added key system","No description",function()
 end)
 
 Tab3Section:NewButton("Keyboard GUI","No description",function()
