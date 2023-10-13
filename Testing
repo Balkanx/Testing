@@ -5,7 +5,7 @@ local window = kavoUi.CreateLib("Balkan x hub","DarkTheme")
  
 local Tab1 = window:NewTab("Games")
 local Tab1Section = Tab1:NewSection("Pls donate")
-local Tab5 = window:NewTab("Games")
+local Tab5 = window:NewTab("Games 1")
 local Tab5Section = Tab5:NewSection("Note:Some script might be old or new")
 local Tab2 = window:NewTab("Credits")
 local Tab2Section = Tab2:NewSection("Made By valipro1pro1")
@@ -21,7 +21,7 @@ local Tab4 = window:NewTab("Paid")
 local Tab4Section = Tab4:NewSection("Coming soon")
  
 ---Buttons
- 
+
  Tab1Section:NewButton("Pls donate🎉 1","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua'))()
 end)
