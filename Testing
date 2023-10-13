@@ -6,7 +6,7 @@ local window = kavoUi.CreateLib("Balkan x hub","DarkTheme")
 local Tab1 = window:NewTab("Games")
 local Tab1Section = Tab1:NewSection("Pls donate")
 local Tab5 = window:NewTab("Games")
-local Tab5Section = Tab5:NewSection("Games 2")
+local Tab5Section = Tab5:NewSection("Note:Some script might be old or new")
 local Tab2 = window:NewTab("Credits")
 local Tab2Section = Tab2:NewSection("Made By valipro1pro1")
 local Tab2Section = Tab2:NewSection("Credits to will")
@@ -716,8 +716,6 @@ end)
 Tab1Section:NewButton("Tps ultimate 2 [just use reach]","No description",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Street%20Soccer'))()
 end)
-
-local Tab5Section = Tab5:NewSection("Note:Some script might be New&old")
 
 local Tab5Section = Tab5:NewSection("Kat")
 
