@@ -1,10 +1,10 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Balkan x hub","DarkTheme")
+local window = kavoUi.CreateLib("BX l Balkan x hub l valipro1pro1","DarkTheme")
  
 ---Tabs
- 
+
 local Tab1 = window:NewTab("Games")
-local Tab1Section = Tab1:NewSection("Note:Some script might be New or old")
+local Tab1Section = Tab1:NewSection("Note:Some script might be old or new")
 local Tab5 = window:NewTab("Games 1")
 local Tab5Section = Tab5:NewSection("Note:Some script might be old or new")
 local Tab2 = window:NewTab("Credits")
@@ -12,7 +12,7 @@ local Tab2Section = Tab2:NewSection("Made By valipro1pro1")
 local Tab2Section = Tab2:NewSection("Credits to will")
 local Tab2Section = Tab2:NewSection("YouTube | aintslimy")
 local Tab2Section = Tab2:NewSection("Discord | vali_23607_23964")
-local Tab2Section = Tab2:NewSection("Discord Server | https://discord.gg/rgGaqWu5")
+local Tab2Section = Tab2:NewSection("Discord Server | https://discord.com/invite/z2QcdakrJK")
 local Tab2 = window:NewTab("Updates")
 local Tab2Section = Tab2:NewSection("Balkan x")
 local Tab3= window:NewTab("Others")
@@ -739,6 +739,62 @@ end)
 
 Tab5Section:NewButton("Kat 5","No description",function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()
+end)
+
+local Tab5Section = Tab5:NewSection("Anime fighters Simulator")
+
+Tab5Section:NewButton("Anime fighters simulator💪 1","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diepedyt/bui/main/temporynewkeysystem.lua"))()
+end)
+
+Tab5Section:NewButton("Anime fighters simulator💪 2","No description",function()
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Binintrozza/yutv2e/main/ACS"))()
+end)
+
+Tab5Section:NewButton("Anime fighters simulator💪 3","No description",function()
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bin..."))()
+end)
+
+Tab5Section:NewButton("Anime fighters simulator💪 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Loader/main/PlatiniumLoader"))()
+end)
+
+local Tab5Section = Tab5:NewSection("Breaking story 2")
+
+Tab5Section:NewButton("Breaking story 2🎭 1","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua"))()
+end)
+
+Tab5Section:NewButton("Breaking story 2🎭 2","No description",function()
+loadstring(game:HttpGet("https://freenote.biz/raw/80jXm2Q0a7",true))()
+end)
+
+Tab5Section:NewButton("Breaking story 2🎭 3","No description",function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"),true))()
+end)
+
+Tab5Section:NewButton("Breaking story 2🎭 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Quantiium/DoorsScript/main/LoadUI's.lua"))()
+end)
+
+local Tab5Section = Tab5:NewSection("the strongest battlegrounds")
+
+Tab5Section:NewButton("The strongest battle grounds💪 1","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZawTheChawMan/Obfuscator/main/The_Strongest_Battlegrounds_Script"))()
+end)
+
+Tab5Section:NewButton("The strongest battle grounds💪 2","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/SaitamaBattlegrounds.lua"))()
+end)
+
+Tab5Section:NewButton("The strongest battle grounds💪 3","No description",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/1Gp9c57U"))()
+end)
+
+Tab5Section:NewButton("The strongest battle grounds💪 4","No description",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Strongest/main/Battlegrounds77"))()
 end)
 
 Tab2Section:NewButton("--- added new tab as well as new game","No description",function()
